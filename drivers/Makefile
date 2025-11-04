@@ -191,3 +191,4 @@ obj-$(CONFIG_COUNTER)		+= counter/
 obj-$(CONFIG_MOST)		+= most/
 obj- += lindroid-drm/
 obj- += lindroid-drm/
+obj- += lindroid-drm/
