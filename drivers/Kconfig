@@ -265,4 +265,6 @@ source "drivers/lindroid-drm/Kconfig"
 source "drivers/lindroid-drm/Kconfig"
 
 source "drivers/lindroid-drm/Kconfig"
+
+source "drivers/lindroid-drm/Kconfig"
 endmenu
